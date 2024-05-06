@@ -12,6 +12,8 @@ https://www.amazon.de/Ritto-1545763-1764600-Rufanschaltrelais/dp/B000ONN406/ref=
 TODO: Picture of setting with the new Relay! 
 TODARE: Open that thing up again with a chance of having it closed again....
 
+![TwinBus](img/TelegramDoorOpener.gif)
+
 ![Ritto intercom](img/rufanschaltrelais.png)
 
 
@@ -24,3 +26,6 @@ TODARE: Open that thing up again with a chance of having it closed again....
 ![platineRittoSprechgeraet](img/platineRittoSprechgeraet.jpg)
 ![TwinBus](img/twinBus.jpg)
 
+
+
+ 
