@@ -2,7 +2,7 @@
 This project puts a shely uni into the caseing of the ritto intercom within your flat. Supported: Forward Bell signal + Send Door Open
 
 Note: A few month out, it stopped working. I'm read about other people running into the same issue. Solution: Give money to Ritto 
-For now im just copying in schematics - will do the rest another time [![Watch the video](https://i9.ytimg.com/vi/SWz1PtIJtWo/mqdefault.jpg?sqp=CNjRpbIG-oaymwEoCMACELQB8quKqQMcGADwAQH4AdoBgALgA4oCDAgAEAEYOCBUKHIwDw==&rs=AOn4CLALXJ-CsYJ-BwXS1ni8gyd0-u8JWg)](https://www.youtube.com/shorts/SWz1PtIJtWo)
+For now im just copying in schematics - will do the rest another time [![Watch the video](img/videoPreview.png)](https://www.youtube.com/shorts/SWz1PtIJtWo)
 
 https://www.youtube.com/shorts/SWz1PtIJtWo
 
